@@ -18,10 +18,10 @@ Then add **hubot-madlibs** to your `external-scripts.json`:
 
 ## Commands
 
-```madlib start``` - starts a new round of Madlibs
-```madlib start <number>``` - starts using the madlib at index of <number>
-```madlib cancel - cancels a current round of Madlibs
-```madlib (respond|r|submit|s) <response>``` - submits a Madlib response
+```madlib start``` - starts a new round of Madlibs<br />
+```madlib start <number>``` - starts using the madlib at index of <number><br />
+```madlib cancel``` - cancels a current round of Madlibs<br />
+```madlib (respond|r|submit|s) <response>``` - submits a Madlib response<br />
 
 ## Customization
 
