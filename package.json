@@ -1,0 +1,39 @@
+{
+  "name": "hubot-madlibs",
+  "description": "Madlibs for Hubot",
+  "version": "1.0.0",
+  "author": "BJ Warshaw <benjarwar@gmail.com>",
+
+  "keywords": [
+    "hubot",
+    "hubot-scripts",
+    "madlib",
+    "madlibs"
+  ],
+
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hubot-scripts/hubot-example.git"
+  },
+
+  "bugs": {
+    "url": "https://github.com/hubot-scripts/hubot-example/issues"
+  },
+
+  "dependencies": {
+    "coffee-script": "~1.6"
+  },
+
+  "devDependencies": {
+    "mocha": "*",
+    "chai": "*",
+    "sinon-chai": "*",
+    "sinon": "*"
+  },
+
+  "main": "index.coffee",
+
+  "scripts": {
+    "test": "script/test"
+  }
+}
